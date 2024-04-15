@@ -22,7 +22,7 @@ class MusicPlayer extends StatefulWidget {
 
 class _MusicPlayerState extends State<MusicPlayer> {
 
-  Music music = Music(trackId:"2WO5nzB7QtKn9ZRc9Jkalt?si=7f39965063d9417c" );
+  Music music = Music(trackId:"4cktbXiXOapiLBMprHFErI?si=f3593bbe15e243d6" );
   // Color songcolor = Color(0xFF251117);
   // String artistName = "";
   // String songName = "";
